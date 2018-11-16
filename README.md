@@ -1,8 +1,16 @@
-# Advanced Lane Finding
+# Udacity Self-Driving Car Engineer Nanodegree
 
-[![Udacity - Self-Driving Car NanoDegree](https://s3.amazonaws.com/udacity-sdc/github/shield-carnd.svg)](http://www.udacity.com/drive)
 
-Overview
+## Term 1 Project 1 : Finding Lane Lines on the Road
+
+
+---
+### Project Writeup
+Complete Project writeup can be found at [Writeup](Term1Prj4_Writeup.ipynb)
+
+---
+
+### Installation & Setup
 ---
 This repository contains starting files for the Advanced Lane Finding Project.
 
